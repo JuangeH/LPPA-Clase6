@@ -1,0 +1,26 @@
+*{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+html{
+    background-color: lightgray;
+}
+body{
+    background-color: azure;
+    border: 1px solid black;
+    width: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    size: 5%;
+    color:green;
+}
+.HTMLtxt{
+    color:green;
+}
+ul{
+    color: blue;
+}
+.TextoMod{
+    color: orange;
+}
